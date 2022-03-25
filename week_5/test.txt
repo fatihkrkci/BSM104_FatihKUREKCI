@@ -1,0 +1,12 @@
+Kitap
+Kalem
+Bartin
+Universite
+Kitap
+Masa
+Sira
+Bilgisayar
+Fare
+Kalem
+Masa
+Sira
