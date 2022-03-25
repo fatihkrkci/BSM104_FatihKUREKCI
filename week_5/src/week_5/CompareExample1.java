@@ -4,9 +4,9 @@ public class CompareExample1 {
 
 	public static void main(String[] args) {
 		
-		Integer x = 20;
-		Integer y = 52;
-		Integer z = 20;
+		Integer x = 10;
+		Integer y = 42;
+		Integer z = 10;
 		
 		System.out.println(x.compareTo(y));
 		System.out.println(x.compareTo(z));
